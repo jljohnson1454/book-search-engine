@@ -18,7 +18,6 @@ mutation addUser($username: String!, $email: String!, $password: String!) {
       user {
         _id
         username
-        email
       }
     }
   }`;

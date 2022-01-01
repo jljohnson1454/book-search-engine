@@ -5,6 +5,11 @@ import { getMe, deleteBook } from '../utils/API';
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
 
+import { GET_ME } from '../utils/queries';
+import { REMOVE_BOOK } from '../utils/mutations';
+
+
+
 const SavedBooks = () => {
   const [userData, setUserData] = useState({});
 
