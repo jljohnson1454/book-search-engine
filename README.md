@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Purpose
-This is a fully functioning book search application where you can add a user, login, and save searched books. The app was originally developed with a RESTful API but I have converted it to use GraphQL.
+This is a fully functioning book search application where you can add a user, login, and save searched books. The app was originally developed using a RESTful API but I have converted it to use GraphQL.
 
 ## Built With
   MERN
@@ -18,7 +18,7 @@ Heroku:
 
 ## References
 
-Module 21
+Module 21 - Deep Thoughts project
 
 ## Contributors
 Originally developed by github user Xandromus
